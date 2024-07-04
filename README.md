@@ -1,0 +1,1 @@
+Este repositorio contiene la aplicación para mantener en segundo plano un handler que desde una extensión del navegador, al descargar algún archivo, se realiza una captura de pantalla de la persona y se toma una foto de la cámara.
